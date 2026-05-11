@@ -30,3 +30,13 @@ A professional, scalable real-time chat application built with the MERN stack (M
 
 ## Deployment
 Configure your environment variables for production and deploy to your preferred cloud provider (e.g., Vercel, Heroku, AWS).
+
+## To Run
+You can clone and run this project directly from GitHub:
+[https://github.com/Naveenkaneti/CHAT-HUB](https://github.com/Naveenkaneti/CHAT-HUB)
+
+```bash
+git clone https://github.com/Naveenkaneti/CHAT-HUB.git
+cd CHAT-HUB
+# Follow the setup instructions above
+```
